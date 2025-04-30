@@ -1,0 +1,15 @@
+def get_users(id:int) -> list[dict]:
+    return [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "johndoe@example.com",
+            "age": 30,
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "janesmith@example.com",
+            "age": 25,
+        },
+    ]
