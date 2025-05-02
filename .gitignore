@@ -2,3 +2,4 @@ venv
 .mypy_cache
 .gitignore
 Chapter\ 4/__pycache__
+Chapter\ 6/__pycache__

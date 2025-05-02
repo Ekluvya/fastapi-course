@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "username": "marko",
+            "password": "$2b$12$KcrnKuBU6ROzmf/prW90xOTRvpdMDx5.GC4p9Gf8gamX3LsWuSoPe",
+            "id": "a6cf9987-6859-416c-9335-c5fcef948d18"
+        },
+        {
+            "username": "yash",
+            "password": "$2b$12$PizPGvOgSUcX7tiF8Kq9seVNEpThUwPhBAWKmIsxiJPKFSYfeL1sS",
+            "id": "ffddc9d6-c9d3-429d-bd54-949424bea67b"
+        }
+    ]
+}
